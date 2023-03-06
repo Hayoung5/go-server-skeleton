@@ -1,0 +1,7 @@
+{"level":"INFO","time":"2022-12-11T15:51:21.747+0900","caller":"logger/logger.go:64","msg":"info","-":"ready server.... "}
+{"level":"INFO","time":"2022-12-11T15:51:21.747+0900","caller":"logger/logger.go:64","msg":"info","-":"start server "}
+{"level":"INFO","time":"2022-12-11T15:51:29.470+0900","caller":"logger/logger.go:117","msg":"/post","status":404,"method":"POST","path":"/post","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36","errors":"","cost":0.000002891}
+{"level":"INFO","time":"2022-12-11T15:51:33.102+0900","caller":"logger/logger.go:117","msg":"/post","status":404,"method":"POST","path":"/post","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36","errors":"","cost":0.000005904}
+{"level":"WARN","time":"2022-12-11T15:51:50.406+0900","caller":"logger/logger.go:75","msg":"warn","-":"Shutdown Server ... "}
+{"level":"INFO","time":"2022-12-11T15:51:55.407+0900","caller":"logger/logger.go:64","msg":"info","-":"timeout of 5 seconds. "}
+{"level":"INFO","time":"2022-12-11T15:51:55.407+0900","caller":"logger/logger.go:64","msg":"info","-":"Server exiting "}
